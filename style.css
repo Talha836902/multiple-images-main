@@ -1,0 +1,49 @@
+body {
+    background-color: brown;
+}
+
+#main {
+    margin: 30px;
+    background-color: white;
+    padding: 70px;
+}
+
+#links {
+    background-color: black;
+    align-items: center;
+    height: 30px;
+    padding-top: 9px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 1px;
+    font-size: larger;
+}
+
+h1 {
+    word-spacing: 50px;
+    letter-spacing: 3px;
+    font-family: 'Courier New', Courier, monospace;
+}
+span {
+    margin-left: 14vw;
+}
+
+p {
+    font-weight: bold;
+}
+
+#_1 {
+    
+    display: flex;
+    margin-left: -40px;
+}
+
+#_2 {
+    margin-left: -40px;
+    
+    display: flex;
+}
